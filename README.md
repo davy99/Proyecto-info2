@@ -1,2 +1,2 @@
-# Proyecto-info2
-proyecto final e investigacion info 2 2020
+# Proyecto-investigacion info2
+proyecto investigacion y ensayo info 2
